@@ -1,0 +1,16 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    "source/_posts/\344\270\200\344\270\252\345\213\272\345\255\220.md"
+#
+# Untracked files:
+#	"source/_posts/\344\277\241\346\201\257\345\255\230\345\202\250.md"
+#	"source/_posts/\346\225\264\346\225\260\350\241\250\347\244\272.md"
+#	"source/image/\344\277\241\346\201\257\345\255\230\345\202\250/"
+#	"source/image/\346\225\264\346\225\260\350\241\250\347\244\272/"
+#
+
